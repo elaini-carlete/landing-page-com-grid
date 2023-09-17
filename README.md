@@ -9,5 +9,10 @@
 - HTML 
 - CSS
 
-### Layout
-<img src="./src/video/landing-page-grid.gif" alt="layout landing page with grid">
+
+### Layout Desktop
+<img src="./src/video/landing-page-grid.gif" alt="layout desktop">
+
+
+### Layout Mobile
+<img src="./src/video/landing-page-grid-mobile.gif" alt="layout mobile">
